@@ -29,7 +29,7 @@ We envision expanding our project by incorporating additional features, optimizi
 Team Lead: **ARJUN KRISHNA K**
 Backend Development: **ATHIRA SHAJI**
 Frontend Development: **ARUN M**
-Machine Learning Models: **ATHIRA SHAJI**
+Machine Learning Models: **ARJUN KRISHNA K**
 Documentation: **JOFIN JAMES SHIBY**
 
 **Acknowledgments**
